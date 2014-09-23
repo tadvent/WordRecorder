@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WordRecorder", "WordRecorder\WordRecorder.vcproj", "{9C8F68CE-AAE2-4D5B-9890-DA97299117E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug STLport|Win32 = Debug STLport|Win32
+		Debug|Win32 = Debug|Win32
+		Release STLport|Win32 = Release STLport|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C8F68CE-AAE2-4D5B-9890-DA97299117E2}.Debug STLport|Win32.ActiveCfg = Debug STLport|Win32
+		{9C8F68CE-AAE2-4D5B-9890-DA97299117E2}.Debug STLport|Win32.Build.0 = Debug STLport|Win32
+		{9C8F68CE-AAE2-4D5B-9890-DA97299117E2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9C8F68CE-AAE2-4D5B-9890-DA97299117E2}.Debug|Win32.Build.0 = Debug|Win32
+		{9C8F68CE-AAE2-4D5B-9890-DA97299117E2}.Release STLport|Win32.ActiveCfg = Release STLport|Win32
+		{9C8F68CE-AAE2-4D5B-9890-DA97299117E2}.Release STLport|Win32.Build.0 = Release STLport|Win32
+		{9C8F68CE-AAE2-4D5B-9890-DA97299117E2}.Release|Win32.ActiveCfg = Release|Win32
+		{9C8F68CE-AAE2-4D5B-9890-DA97299117E2}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
